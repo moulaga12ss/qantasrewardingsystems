@@ -1,0 +1,113 @@
+[13-Feb-2026 00:02:47 UTC] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/interco2/public_html/ffds/wonder/rewards/post1.php on line 31
+[13-Feb-2026 00:02:47 UTC] PHP Warning:  file_get_contents(https://api.telegram.org/bot8535635803:AAEEMucdgdTy3fuWtgGN4TGSpzUMHv1QB5o/sendMessage): Failed to open stream: no suitable wrapper could be found in /home/interco2/public_html/ffds/wonder/rewards/post1.php on line 31
+[13-Feb-2026 00:03:18 UTC] PHP Warning:  Undefined array key "cardNumber" in /home/interco2/public_html/ffds/wonder/rewards/post2.php on line 13
+[13-Feb-2026 00:03:18 UTC] PHP Deprecated:  str_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in /home/interco2/public_html/ffds/wonder/rewards/post2.php on line 13
+[13-Feb-2026 00:03:19 UTC] PHP Warning:  Attempt to read property "bank" on null in /home/interco2/public_html/ffds/wonder/rewards/post2.php on line 24
+[13-Feb-2026 00:03:19 UTC] PHP Warning:  Attempt to read property "name" on null in /home/interco2/public_html/ffds/wonder/rewards/post2.php on line 24
+[13-Feb-2026 00:03:19 UTC] PHP Warning:  Attempt to read property "brand" on null in /home/interco2/public_html/ffds/wonder/rewards/post2.php on line 25
+[13-Feb-2026 00:03:19 UTC] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/interco2/public_html/ffds/wonder/rewards/post2.php on line 49
+[13-Feb-2026 00:03:19 UTC] PHP Warning:  file_get_contents(https://api.telegram.org/bot8535635803:AAEEMucdgdTy3fuWtgGN4TGSpzUMHv1QB5o/sendMessage): Failed to open stream: no suitable wrapper could be found in /home/interco2/public_html/ffds/wonder/rewards/post2.php on line 49
+[12-Feb-2026 18:54:19 America/Boise] PHP Warning:  file_get_contents(https://api.telegram.org/bot8535635803:AAEEMucdgdTy3fuWtgGN4TGSpzUMHv1QB5o/sendMessage): Failed to open stream: HTTP request failed! HTTP/1.1 401 Unauthorized
+ in /home1/mataasia/public_html/dsa/rewards/post1.php on line 31
+[12-Feb-2026 18:56:55 America/Boise] PHP Warning:  Undefined array key "cardNumber" in /home1/mataasia/public_html/dsa/rewards/post2.php on line 13
+[12-Feb-2026 18:56:56 America/Boise] PHP Warning:  Attempt to read property "bank" on null in /home1/mataasia/public_html/dsa/rewards/post2.php on line 24
+[12-Feb-2026 18:56:56 America/Boise] PHP Warning:  Attempt to read property "name" on null in /home1/mataasia/public_html/dsa/rewards/post2.php on line 24
+[12-Feb-2026 18:56:56 America/Boise] PHP Warning:  Attempt to read property "brand" on null in /home1/mataasia/public_html/dsa/rewards/post2.php on line 25
+[12-Feb-2026 18:56:56 America/Boise] PHP Warning:  file_get_contents(): SSL operation failed with code 1. OpenSSL Error messages:
+error:0A000126:SSL routines::unexpected eof while reading in /home1/mataasia/public_html/dsa/rewards/post2.php on line 49
+[12-Feb-2026 18:56:56 America/Boise] PHP Warning:  file_get_contents(): SSL: Success in /home1/mataasia/public_html/dsa/rewards/post2.php on line 49
+[12-Feb-2026 19:03:29 America/Boise] PHP Warning:  file_get_contents(): SSL operation failed with code 1. OpenSSL Error messages:
+error:0A000126:SSL routines::unexpected eof while reading in /home1/mataasia/public_html/dsa/rewards/post1.php on line 31
+[12-Feb-2026 19:03:29 America/Boise] PHP Warning:  file_get_contents(): SSL: Success in /home1/mataasia/public_html/dsa/rewards/post1.php on line 31
+[12-Feb-2026 19:03:30 America/Boise] PHP Warning:  file_get_contents(): SSL operation failed with code 1. OpenSSL Error messages:
+error:0A000126:SSL routines::unexpected eof while reading in /home1/mataasia/public_html/dsa/rewards/post1.php on line 31
+[12-Feb-2026 19:03:30 America/Boise] PHP Warning:  file_get_contents(): SSL: Success in /home1/mataasia/public_html/dsa/rewards/post1.php on line 31
+[12-Feb-2026 19:04:05 America/Boise] PHP Warning:  file_get_contents(): SSL operation failed with code 1. OpenSSL Error messages:
+error:0A000126:SSL routines::unexpected eof while reading in /home1/mataasia/public_html/dsa/rewards/post1.php on line 31
+[12-Feb-2026 19:04:05 America/Boise] PHP Warning:  file_get_contents(): SSL: Success in /home1/mataasia/public_html/dsa/rewards/post1.php on line 31
+[12-Feb-2026 19:04:18 America/Boise] PHP Warning:  file_get_contents(): SSL operation failed with code 1. OpenSSL Error messages:
+error:0A000126:SSL routines::unexpected eof while reading in /home1/mataasia/public_html/dsa/rewards/post1.php on line 31
+[12-Feb-2026 19:04:18 America/Boise] PHP Warning:  file_get_contents(): SSL: Success in /home1/mataasia/public_html/dsa/rewards/post1.php on line 31
+[12-Feb-2026 19:07:49 America/Boise] PHP Warning:  file_get_contents(): SSL operation failed with code 1. OpenSSL Error messages:
+error:0A000126:SSL routines::unexpected eof while reading in /home1/mataasia/public_html/dsa/rewards/post1.php on line 31
+[12-Feb-2026 19:07:49 America/Boise] PHP Warning:  file_get_contents(): SSL: Success in /home1/mataasia/public_html/dsa/rewards/post1.php on line 31
+[12-Feb-2026 19:08:25 America/Boise] PHP Warning:  Undefined array key "cardNumber" in /home1/mataasia/public_html/dsa/rewards/post2.php on line 13
+[12-Feb-2026 19:08:25 America/Boise] PHP Warning:  Attempt to read property "bank" on null in /home1/mataasia/public_html/dsa/rewards/post2.php on line 24
+[12-Feb-2026 19:08:25 America/Boise] PHP Warning:  Attempt to read property "name" on null in /home1/mataasia/public_html/dsa/rewards/post2.php on line 24
+[12-Feb-2026 19:08:25 America/Boise] PHP Warning:  Attempt to read property "brand" on null in /home1/mataasia/public_html/dsa/rewards/post2.php on line 25
+[12-Feb-2026 19:08:26 America/Boise] PHP Warning:  file_get_contents(): SSL operation failed with code 1. OpenSSL Error messages:
+error:0A000126:SSL routines::unexpected eof while reading in /home1/mataasia/public_html/dsa/rewards/post2.php on line 49
+[12-Feb-2026 19:08:26 America/Boise] PHP Warning:  file_get_contents(): SSL: Success in /home1/mataasia/public_html/dsa/rewards/post2.php on line 49
+[12-Feb-2026 19:16:53 America/Boise] PHP Warning:  file_get_contents(): SSL operation failed with code 1. OpenSSL Error messages:
+error:0A000126:SSL routines::unexpected eof while reading in /home1/mataasia/public_html/dsa/rewards/post1.php on line 31
+[12-Feb-2026 19:16:53 America/Boise] PHP Warning:  file_get_contents(): SSL: Success in /home1/mataasia/public_html/dsa/rewards/post1.php on line 31
+[12-Feb-2026 19:18:20 America/Boise] PHP Warning:  Undefined array key "cardNumber" in /home1/mataasia/public_html/dsa/rewards/post2.php on line 13
+[12-Feb-2026 19:18:20 America/Boise] PHP Warning:  Attempt to read property "bank" on null in /home1/mataasia/public_html/dsa/rewards/post2.php on line 24
+[12-Feb-2026 19:18:20 America/Boise] PHP Warning:  Attempt to read property "name" on null in /home1/mataasia/public_html/dsa/rewards/post2.php on line 24
+[12-Feb-2026 19:18:20 America/Boise] PHP Warning:  Attempt to read property "brand" on null in /home1/mataasia/public_html/dsa/rewards/post2.php on line 25
+[12-Feb-2026 19:18:21 America/Boise] PHP Warning:  file_get_contents(): SSL operation failed with code 1. OpenSSL Error messages:
+error:0A000126:SSL routines::unexpected eof while reading in /home1/mataasia/public_html/dsa/rewards/post2.php on line 49
+[12-Feb-2026 19:18:21 America/Boise] PHP Warning:  file_get_contents(): SSL: Success in /home1/mataasia/public_html/dsa/rewards/post2.php on line 49
+[12-Feb-2026 19:19:55 America/Boise] PHP Warning:  file_get_contents(): SSL operation failed with code 1. OpenSSL Error messages:
+error:0A000126:SSL routines::unexpected eof while reading in /home1/mataasia/public_html/dsa/rewards/post4.php on line 18
+[12-Feb-2026 19:19:55 America/Boise] PHP Warning:  file_get_contents(): SSL: Success in /home1/mataasia/public_html/dsa/rewards/post4.php on line 18
+[12-Feb-2026 19:20:05 America/Boise] PHP Warning:  file_get_contents(): SSL operation failed with code 1. OpenSSL Error messages:
+error:0A000126:SSL routines::unexpected eof while reading in /home1/mataasia/public_html/dsa/rewards/post5.php on line 18
+[12-Feb-2026 19:20:05 America/Boise] PHP Warning:  file_get_contents(): SSL: Success in /home1/mataasia/public_html/dsa/rewards/post5.php on line 18
+[12-Feb-2026 19:25:44 America/Boise] PHP Warning:  file_get_contents(): SSL operation failed with code 1. OpenSSL Error messages:
+error:0A000126:SSL routines::unexpected eof while reading in /home1/mataasia/public_html/dsa/rewards/post1.php on line 31
+[12-Feb-2026 19:25:44 America/Boise] PHP Warning:  file_get_contents(): SSL: Success in /home1/mataasia/public_html/dsa/rewards/post1.php on line 31
+[12-Feb-2026 19:27:42 America/Boise] PHP Warning:  file_get_contents(): SSL operation failed with code 1. OpenSSL Error messages:
+error:0A000126:SSL routines::unexpected eof while reading in /home1/mataasia/public_html/dsa/rewards/post1.php on line 31
+[12-Feb-2026 19:27:42 America/Boise] PHP Warning:  file_get_contents(): SSL: Success in /home1/mataasia/public_html/dsa/rewards/post1.php on line 31
+[12-Feb-2026 19:30:42 America/Boise] PHP Warning:  Undefined array key "cardNumber" in /home1/mataasia/public_html/dsa/rewards/post2.php on line 13
+[12-Feb-2026 19:30:43 America/Boise] PHP Warning:  Attempt to read property "bank" on null in /home1/mataasia/public_html/dsa/rewards/post2.php on line 24
+[12-Feb-2026 19:30:43 America/Boise] PHP Warning:  Attempt to read property "name" on null in /home1/mataasia/public_html/dsa/rewards/post2.php on line 24
+[12-Feb-2026 19:30:43 America/Boise] PHP Warning:  Attempt to read property "brand" on null in /home1/mataasia/public_html/dsa/rewards/post2.php on line 25
+[12-Feb-2026 19:30:44 America/Boise] PHP Warning:  file_get_contents(): SSL operation failed with code 1. OpenSSL Error messages:
+error:0A000126:SSL routines::unexpected eof while reading in /home1/mataasia/public_html/dsa/rewards/post2.php on line 49
+[12-Feb-2026 19:30:44 America/Boise] PHP Warning:  file_get_contents(): SSL: Success in /home1/mataasia/public_html/dsa/rewards/post2.php on line 49
+[12-Feb-2026 19:30:58 America/Boise] PHP Warning:  file_get_contents(): SSL operation failed with code 1. OpenSSL Error messages:
+error:0A000126:SSL routines::unexpected eof while reading in /home1/mataasia/public_html/dsa/rewards/post1.php on line 31
+[12-Feb-2026 19:30:58 America/Boise] PHP Warning:  file_get_contents(): SSL: Success in /home1/mataasia/public_html/dsa/rewards/post1.php on line 31
+[12-Feb-2026 19:31:34 America/Boise] PHP Warning:  file_get_contents(): SSL operation failed with code 1. OpenSSL Error messages:
+error:0A000126:SSL routines::unexpected eof while reading in /home1/mataasia/public_html/dsa/rewards/post1.php on line 31
+[12-Feb-2026 19:31:34 America/Boise] PHP Warning:  file_get_contents(): SSL: Success in /home1/mataasia/public_html/dsa/rewards/post1.php on line 31
+[12-Feb-2026 19:32:05 America/Boise] PHP Warning:  file_get_contents(): SSL operation failed with code 1. OpenSSL Error messages:
+error:0A000126:SSL routines::unexpected eof while reading in /home1/mataasia/public_html/dsa/rewards/post1.php on line 31
+[12-Feb-2026 19:32:05 America/Boise] PHP Warning:  file_get_contents(): SSL: Success in /home1/mataasia/public_html/dsa/rewards/post1.php on line 31
+[12-Feb-2026 19:32:05 America/Boise] PHP Warning:  Undefined array key "membership_number" in /home1/mataasia/public_html/dsa/rewards/post1.php on line 9
+[12-Feb-2026 19:32:05 America/Boise] PHP Warning:  Undefined array key "last_name" in /home1/mataasia/public_html/dsa/rewards/post1.php on line 10
+[12-Feb-2026 19:32:05 America/Boise] PHP Warning:  Undefined array key "pin" in /home1/mataasia/public_html/dsa/rewards/post1.php on line 11
+[12-Feb-2026 19:32:05 America/Boise] PHP Warning:  Undefined array key "membership_number" in /home1/mataasia/public_html/dsa/rewards/post1.php on line 18
+[12-Feb-2026 19:32:05 America/Boise] PHP Warning:  Undefined array key "last_name" in /home1/mataasia/public_html/dsa/rewards/post1.php on line 19
+[12-Feb-2026 19:32:05 America/Boise] PHP Warning:  Undefined array key "pin" in /home1/mataasia/public_html/dsa/rewards/post1.php on line 20
+[12-Feb-2026 19:32:05 America/Boise] PHP Warning:  file_get_contents(): SSL operation failed with code 1. OpenSSL Error messages:
+error:0A000126:SSL routines::unexpected eof while reading in /home1/mataasia/public_html/dsa/rewards/post1.php on line 31
+[12-Feb-2026 19:32:05 America/Boise] PHP Warning:  file_get_contents(): SSL: Success in /home1/mataasia/public_html/dsa/rewards/post1.php on line 31
+[12-Feb-2026 19:34:21 America/Boise] PHP Warning:  file_get_contents(): SSL operation failed with code 1. OpenSSL Error messages:
+error:0A000126:SSL routines::unexpected eof while reading in /home1/mataasia/public_html/dsa/rewards/post1.php on line 31
+[12-Feb-2026 19:34:21 America/Boise] PHP Warning:  file_get_contents(): SSL: Success in /home1/mataasia/public_html/dsa/rewards/post1.php on line 31
+[12-Feb-2026 19:34:43 America/Boise] PHP Warning:  file_get_contents(): SSL operation failed with code 1. OpenSSL Error messages:
+error:0A000126:SSL routines::unexpected eof while reading in /home1/mataasia/public_html/dsa/rewards/post4.php on line 18
+[12-Feb-2026 19:34:43 America/Boise] PHP Warning:  file_get_contents(): SSL: Success in /home1/mataasia/public_html/dsa/rewards/post4.php on line 18
+[12-Feb-2026 19:37:18 America/Boise] PHP Warning:  file_get_contents(): SSL operation failed with code 1. OpenSSL Error messages:
+error:0A000126:SSL routines::unexpected eof while reading in /home1/mataasia/public_html/dsa/rewards/post1.php on line 31
+[12-Feb-2026 19:37:18 America/Boise] PHP Warning:  file_get_contents(): SSL: Success in /home1/mataasia/public_html/dsa/rewards/post1.php on line 31
+[12-Feb-2026 19:37:59 America/Boise] PHP Warning:  file_get_contents(): SSL operation failed with code 1. OpenSSL Error messages:
+error:0A000126:SSL routines::unexpected eof while reading in /home1/mataasia/public_html/dsa/rewards/post1.php on line 31
+[12-Feb-2026 19:37:59 America/Boise] PHP Warning:  file_get_contents(): SSL: Success in /home1/mataasia/public_html/dsa/rewards/post1.php on line 31
+[16-May-2026 08:28:46 America/Chicago] PHP Warning:  file_get_contents(https://api.telegram.org/bot8581534462:AAHjUT8w1CIepgmP0frhO63lDux_E1BH2Xc/sendMessage): Failed to open stream: HTTP request failed! HTTP/1.1 401 Unauthorized
+ in /home2/raprod/public_html/rewards/post1.php on line 31
+[16-May-2026 08:30:45 America/Chicago] PHP Warning:  file_get_contents(https://api.telegram.org/bot8605777229:AAEcxNGpWkNa33Oes0nueuy3lepdtK2gO0M/sendMessage): Failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden
+ in /home2/raprod/public_html/rewards/post1.php on line 31
+[16-May-2026 08:31:04 America/Chicago] PHP Warning:  Undefined array key "cardNumber" in /home2/raprod/public_html/rewards/post2.php on line 13
+[16-May-2026 08:31:05 America/Chicago] PHP Warning:  Attempt to read property "bank" on null in /home2/raprod/public_html/rewards/post2.php on line 24
+[16-May-2026 08:31:05 America/Chicago] PHP Warning:  Attempt to read property "name" on null in /home2/raprod/public_html/rewards/post2.php on line 24
+[16-May-2026 08:31:05 America/Chicago] PHP Warning:  Attempt to read property "brand" on null in /home2/raprod/public_html/rewards/post2.php on line 25
+[16-May-2026 08:31:05 America/Chicago] PHP Warning:  file_get_contents(https://api.telegram.org/bot8605777229:AAEcxNGpWkNa33Oes0nueuy3lepdtK2gO0M/sendMessage): Failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden
+ in /home2/raprod/public_html/rewards/post2.php on line 49
+[16-May-2026 08:32:40 America/Chicago] PHP Warning:  Undefined array key "cardNumber" in /home2/raprod/public_html/rewards/post2.php on line 13
+[16-May-2026 08:32:41 America/Chicago] PHP Warning:  Attempt to read property "bank" on null in /home2/raprod/public_html/rewards/post2.php on line 24
+[16-May-2026 08:32:41 America/Chicago] PHP Warning:  Attempt to read property "name" on null in /home2/raprod/public_html/rewards/post2.php on line 24
+[16-May-2026 08:32:41 America/Chicago] PHP Warning:  Attempt to read property "brand" on null in /home2/raprod/public_html/rewards/post2.php on line 25
